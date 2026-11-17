@@ -1,0 +1,12 @@
+[
+ {"name": "ソラノ ワイヤレスイヤホン", "name_en": "wireless earbuds", "summary": "通勤向けの軽量ワイヤレスイヤホン", "target": "電車通勤の会社員", "features": ["ノイズキャンセリング", "片耳4g", "最大30時間再生"], "tone": "落ち着いた・洗練"},
+ {"name": "まめログ コーヒー定期便", "name_en": "specialty coffee beans subscription box", "summary": "焙煎したての豆が毎月届く定期便", "target": "在宅勤務のコーヒー好き", "features": ["焙煎後48時間以内に発送", "毎月違う産地", "解約いつでも"], "tone": "親しみやすい"},
+ {"name": "カルナ 折りたたみ電動自転車", "name_en": "folding electric bicycle", "summary": "マンションの玄関に置ける折りたたみe-bike", "target": "都市部に住む30代", "features": ["重さ14kg", "航続60km", "10秒で折りたたみ"], "tone": "アクティブ"},
+ {"name": "ねむりや 枕", "name_en": "ergonomic memory foam pillow", "summary": "高さを調整できる枕", "target": "首こりに悩むデスクワーカー", "features": ["高さ5段階調整", "洗えるカバー", "30日お試し"], "tone": "やさしい"},
+ {"name": "ToDoリズム", "name_en": "task management mobile app", "summary": "習慣化に特化したタスク管理アプリ", "target": "三日坊主になりがちな大学生", "features": ["連続記録カレンダー", "1日3タスク制限", "友達と励まし合い"], "tone": "カジュアル"},
+ {"name": "やさいの森 ミールキット", "name_en": "vegetable meal kit box", "summary": "20分で作れる野菜中心のミールキット", "target": "共働きの子育て世帯", "features": ["20分で完成", "国産野菜", "子ども向けレシピ付き"], "tone": "あたたかい"},
+ {"name": "ミライ英会話", "name_en": "online english conversation lesson", "summary": "AI相手に何度でも話せる英会話アプリ", "target": "英語の会議が苦手なエンジニア", "features": ["24時間練習可能", "会議シーン特化", "発音フィードバック"], "tone": "前向き"},
+ {"name": "ハコブネ 収納ボックス", "name_en": "stackable storage box", "summary": "積み重ねられるモジュール式収納", "target": "ワンルームに住む一人暮らし", "features": ["耐荷重30kg", "工具不要で組立", "6色展開"], "tone": "シンプル"},
+ {"name": "ひだまり ペットカメラ", "name_en": "pet camera with treat dispenser", "summary": "外出先から猫を見守れるカメラ", "target": "猫と暮らす共働き世帯", "features": ["おやつ投げ機能", "暗視モード", "鳴き声通知"], "tone": "かわいい"},
+ {"name": "ゆるラン ランニングシューズ", "name_en": "cushioned running shoes", "summary": "初心者向けのクッション性が高いシューズ", "target": "ランニングを始めたい40代", "features": ["厚底クッション", "重さ220g", "幅広設計"], "tone": "励ます"}
+]
